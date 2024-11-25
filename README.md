@@ -2,7 +2,7 @@
 
 ## Overview
 
-This README file provides information about the data and the computer code used to generate the results presented in Ardia and Sessinou (2024), **Robust Inference in Large Panels and Markovitz Portfolios**
+This README file provides information about the data and the computer code used to generate the results presented in Ardia and Sessinou (2024), **Robust Inference in Large Panels and Markowitz Portfolios**
 
 By using the code, you agree to the following rules:
 
@@ -16,4 +16,4 @@ The computer code is written in R and allows for replicating all tables and figu
 
 ## References
 
-Ardia D., Sessinou, R. 2024. Robust Inference in Large Panels and Markovitz Portfolios. Working paper. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5033092
+Ardia D., Sessinou, R. 2024. Robust Inference in Large Panels and Markowitz Portfolios. Working paper. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5033092
