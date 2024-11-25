@@ -1,8 +1,8 @@
-#### 2024-11-23 
+#### 2024-11-25
 
 ## Overview
 
-This README file provides information about the data and the computer code used to generate the results presented in Ardia and Sessinou (2024), **High-Dimensional Mean-Variance Spanning Tests**
+This README file provides information about the data and the computer code used to generate the results presented in Ardia and Sessinou (2024), **Robust Inference in Large Panels and Markovitz Portfolios**
 
 By using the code, you agree to the following rules:
 
@@ -16,4 +16,4 @@ The computer code is written in R and allows for replicating all tables and figu
 
 ## References
 
-Ardia D., Sessinou, R. 2024. High-Dimensional Mean-Variance Spanning Tests. Working paper. https://doi.org/10.2139/ssrn.4703023
+Ardia D., Sessinou, R. 2024. Robust Inference in Large Panels and Markovitz Portfolios. Working paper. https://doi.org/10.2139/ssrn.4703023
