@@ -22,4 +22,5 @@ The computer code is written in R and allows for replicating all tables and figu
 
 ## References
 
-Ardia D., Sessinou, R. 2024. Robust Inference in Large Panels and Markovitz Portfolios. Working paper. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5033092
+Ardia D., Sessinou, R. 2024. Robust Inference in Large Panels and Markowitz Portfolios. 
+Working paper. https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5033399
