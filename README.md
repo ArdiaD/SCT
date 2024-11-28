@@ -1,8 +1,14 @@
 #### 2024-11-25
 
+## !!! IMPORTANT !!!
+
+Currently, the repository is empty as the paper is "under revision." We will release the code 
+once the reviewing process is finalized. 
+
 ## Overview
 
-This README file provides information about the data and the computer code used to generate the results presented in Ardia and Sessinou (2024), **Robust Inference in Large Panels and Markovitz Portfolios**
+This README file provides information about the data and the computer code used to generate 
+the results presented in Ardia and Sessinou (2024), **Robust Inference in Large Panels and Markovitz Portfolios**
 
 By using the code, you agree to the following rules:
 
