@@ -2,7 +2,7 @@
 
 ## !!! IMPORTANT !!!
 
-Currently, the repository is empty as the paper is "under revision." We will release the code 
+Currently, the repository is empty as the paper is "under review." We will release the code 
 once the reviewing process is finalized. 
 
 ## Overview
